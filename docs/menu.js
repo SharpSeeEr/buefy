@@ -25,6 +25,7 @@ export default {
                     pages: [
                         { name: 'Autocomplete', path: '/documentation/autocomplete', isUpdated: true },
                         { name: 'Checkbox', path: '/documentation/checkbox', isUpdated: true },
+                        { name: 'Clockpicker', path: '/documentation/clockpicker', isNew: true },
                         { name: 'Datepicker', path: '/documentation/datepicker' },
                         { name: 'Field', path: '/documentation/field' },
                         { name: 'Input', path: '/documentation/input' },
